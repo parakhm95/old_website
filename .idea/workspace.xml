@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e205d467-ea19-43d5-a8a6-6a1f2ab08d0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/empathy.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/empathy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2686">
-              <caret line="158" column="34" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="34" />
+            <state relative-caret-position="278">
+              <caret line="106" column="92" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-829">
+              <caret line="3085" column="24" lean-forward="true" selection-start-line="3085" selection-start-column="24" selection-end-line="3085" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -44,16 +54,16 @@
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="884">
-              <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/empathy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+            <state relative-caret-position="561">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -83,6 +93,8 @@
       <find>ima</find>
       <find>Modquad.html</find>
       <find>.html</find>
+      <find>rotate</find>
+      <find>.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,10 +111,11 @@
         <option value="$PROJECT_DIR$/../../parakhm95.github.io/index.html" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/Modquad.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects/modquad.html" />
         <option value="$PROJECT_DIR$/projects/humanoid.html" />
         <option value="$PROJECT_DIR$/blog/empathy.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -121,6 +134,17 @@
             <path>
               <item name="parakhm95.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="parakhm95.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parakhm95.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parakhm95.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parakhm95.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parakhm95.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="parakhm95.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +209,10 @@
       <updated>1547411405427</updated>
       <workItem from="1547411406671" duration="4148000" />
       <workItem from="1547417104860" duration="1579000" />
-      <workItem from="1548823076111" duration="88000" />
+      <workItem from="1548823076111" duration="549000" />
+      <workItem from="1549044850407" duration="61000" />
+      <workItem from="1549044931652" duration="81000" />
+      <workItem from="1552168199696" duration="3555000" />
     </task>
     <task id="LOCAL-00001" summary="Blog.html and refactoring">
       <created>1547414222408</created>
@@ -198,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5815000" />
+    <option name="totallyTimeSpent" value="9973000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,7 +240,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49598393" visible="true" weight="0.10944206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49598393" visible="true" weight="0.1137339" />
       <window_info id="Structure" order="1" sideWeight="0.50401604" side_tool="true" weight="0.10801145" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,13 +273,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../parakhm95.github.io/index.html" />
     <entry file="file://$PROJECT_DIR$/Modquad.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="158" column="34" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/humanoid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -270,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
-          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -290,8 +310,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/empathy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        <state relative-caret-position="561">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-829">
+          <caret line="3085" column="24" lean-forward="true" selection-start-line="3085" selection-start-column="24" selection-end-line="3085" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="106" column="92" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
         </state>
       </provider>
     </entry>
