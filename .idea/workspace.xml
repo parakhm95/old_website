@@ -17,8 +17,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="106" column="92" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
+            <state relative-caret-position="403">
+              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +98,9 @@
       <find>.html</find>
       <find>rotate</find>
       <find>.</find>
+      <find>modqu</find>
+      <find>human</find>
+      <find>html</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,7 +218,7 @@
       <workItem from="1548823076111" duration="549000" />
       <workItem from="1549044850407" duration="61000" />
       <workItem from="1549044931652" duration="81000" />
-      <workItem from="1552168199696" duration="3555000" />
+      <workItem from="1552168199696" duration="8747000" />
     </task>
     <task id="LOCAL-00001" summary="Blog.html and refactoring">
       <created>1547414222408</created>
@@ -225,7 +231,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9973000" />
+    <option name="totallyTimeSpent" value="15165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,8 +330,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="106" column="92" selection-start-line="106" selection-start-column="92" selection-end-line="106" selection-end-column="92" />
+        <state relative-caret-position="403">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
